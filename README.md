@@ -161,7 +161,7 @@ Monitors for deauthentication and disassociation management frames in promiscuou
 
 ---
 
-## 🦷 Bluetooth BLE Capabilities
+## ᛒ Bluetooth BLE Capabilities
 
 > The ESP32-S3 supports **BLE only** — Classic Bluetooth is not available.
 
