@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-ESP32--S3-blue?logo=espressif)](https://www.espressif.com/)
 [![Framework](https://img.shields.io/badge/Framework-Arduino-teal?logo=arduino)](https://www.arduino.cc/)
 [![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/firelord1984/Esp32-Wave-2.0/blob/main/LICENSE)
 [![Authorized Use Only](https://img.shields.io/badge/⚠️_Use-Authorized_Testing_Only-red)]()
 
 <br/>
