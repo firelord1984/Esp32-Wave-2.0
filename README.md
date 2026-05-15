@@ -20,7 +20,7 @@
 
 ```
   ╔══════════════════════════════════════════════╗
-  ║   GhostWave  v2.0  —  T-Embed CC1101        ║
+  ║   GhostWave  v2.0  —  T-Embed CC1101         ║
   ║   ESP32-S3 + CC1101  Pentest Firmware        ║
   ║   FOR AUTHORIZED TESTING ONLY                ║
   ╚══════════════════════════════════════════════╝
