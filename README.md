@@ -285,7 +285,7 @@ The ST7789 1.9" TFT provides a live status UI navigated by the rotary encoder.
 All TFT_eSPI build flags are pre-configured in `platformio.ini`. No manual library edits needed.
 
 ```bash
-git clone https://github.com/yourusername/GhostWave.git
+git clone https://github.com/firelord1984/GhostWave.git
 cd GhostWave
 pio run -t upload
 pio device monitor
@@ -328,7 +328,7 @@ Connect serial at **115200 baud**:
 
 ```
   ╔══════════════════════════════════════════════╗
-  ║   GhostWave  v2.0  —  T-Embed CC1101        ║
+  ║   GhostWave  v2.0  —  T-Embed CC1101         ║
   ║   ESP32-S3 + CC1101  Pentest Firmware        ║
   ║   FOR AUTHORIZED TESTING ONLY                ║
   ╚══════════════════════════════════════════════╝
